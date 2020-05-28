@@ -1,4 +1,4 @@
-A chrome extension to automatically close all stackoverflow and google tabs after you're done toubleshooting/fixing a bug. It's also customizable. 
+A chrome extension to automatically close all stackoverflow and google tabs after you're done troubleshooting/fixing a bug. It's also customizable. 
 
 # How To Install
 * Open `chrome://extensions/`.
